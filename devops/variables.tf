@@ -15,6 +15,6 @@ variable "sg-id" {
 }
 
 
-variable "ami" {
+variable "ami-id" {
   default = "ami-0c2310d0ddb1043f5"
 }
